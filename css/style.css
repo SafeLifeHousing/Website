@@ -537,7 +537,7 @@
 
   .social-links a {
     display: inline-block;
-    color: var(--p-color);
+    color: var(---color);
     font-size: var(--h6-font-size);
     margin: 5px 20px 5px 0;
   }
