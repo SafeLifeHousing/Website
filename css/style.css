@@ -616,3 +616,8 @@
       padding: 0.3rem 2rem 0.6rem 2rem;
     }
   }
+
+  .rectangle {
+    width: 100px; /* Adjust the width as needed */
+    height: 200px; /* Adjust the height as needed */
+    background-color: lightblue; }
